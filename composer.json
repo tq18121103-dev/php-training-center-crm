@@ -1,0 +1,12 @@
+{
+    "name": "student/php-training-center-crm-lab05",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Core/helpers.php"
+        ]
+    }
+}
