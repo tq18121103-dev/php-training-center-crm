@@ -1,7 +1,5 @@
 # Lab05 - Training Center CRM
 
-## Student Information
-
 * Course: Web Development with PHP
 * Lab: Lab05 - Database CRUD Application
 * Student: NGO THUY QUYNH
