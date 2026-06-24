@@ -2,7 +2,6 @@
 
 * Course: Web Development with PHP
 * Lab: Lab05 - Database CRUD Application
-* Student: NGO THUY QUYNH
 
 ---
 
