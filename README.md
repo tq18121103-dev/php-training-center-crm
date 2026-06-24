@@ -287,9 +287,3 @@ http://localhost:8000
 * CSS
 * Git
 * GitHub
-
----
-
-## Author
-
-NGO THUY QUYNH
